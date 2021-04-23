@@ -1,5 +1,5 @@
-Twitch : https://twitch.tv/momoiamb
-Youtube : https://www.youtube.com/c/LuelRoseline
+- Twitch : https://twitch.tv/momoiamb
+- Youtube : https://www.youtube.com/c/LuelRoseline
 
 - 👋 Hi, I’m @LRoseline
 - 👀 I’m interested in ...
