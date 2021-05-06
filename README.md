@@ -1,6 +1,9 @@
 - Twitch : https://twitch.tv/momoiamb
 - Youtube : https://www.youtube.com/c/LuelRoseline
 
+> 안녕
+> > 어이
+
 - 👋 Hi, I’m @LRoseline
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
